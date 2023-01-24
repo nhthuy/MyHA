@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project.
+Welcome to my new SAP HANA Cloud and CAP to Build Full-Stack Applications Using VSCode.
 
 It contains these folders and files, following our recommended project layout:
 
